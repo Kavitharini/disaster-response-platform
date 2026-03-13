@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 async function submitRequest(){
 
 const name=document.getElementById("name").value
@@ -38,3 +39,23 @@ list.appendChild(li)
 }
 
 loadRequests()
+=======
+body{
+font-family: Arial;
+text-align:center;
+background:#f5f5f5;
+}
+
+input, textarea{
+width:300px;
+padding:10px;
+margin:10px;
+}
+
+button{
+background:red;
+color:white;
+padding:10px 20px;
+border:none;
+}
+>>>>>>> 22bcf6c517bfdf745ad6dea879afcad1a9214dab
