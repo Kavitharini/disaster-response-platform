@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 flask
 flask-cors
-=======
-flask
->>>>>>> 22bcf6c517bfdf745ad6dea879afcad1a9214dab
